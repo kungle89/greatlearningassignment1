@@ -3,13 +3,13 @@ package com.greatlearning.main;
 import com.greatlearning.model.AdminDepartment;
 import com.greatlearning.model.HrDepartment;
 import com.greatlearning.model.TechDepartment;
-//import com.greatlearning.service.SuperDepartment;
+
 
 public class DriverClass {
 	
 	public static void main(String[] args)
 	{
-		//SuperDepartment superdepartment = new SuperDepartment();
+		
 		String strWelcome = "Welcome to ";
 		
 		
